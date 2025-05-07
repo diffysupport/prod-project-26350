@@ -25,7 +25,7 @@ advanced:
     mask: ''
     remove: ''
     isolate: "#cmplz-cookiebanner-container\nfamily-assets-chat"
-    delay: 15
+    delay: 40
     scroll: true
     headers:
         - { header: '', value: '' }
